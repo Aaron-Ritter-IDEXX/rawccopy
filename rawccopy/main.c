@@ -2,7 +2,7 @@
 #include "context.h"
 #include "processor.h"
 
-#define RCC_VERSION "0.1.4"
+#define RCC_VERSION "0.1.4.2"
 
 uint64_t TimeStamp();
 uint64_t ElapsedTime(uint64_t since);
